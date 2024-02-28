@@ -22,7 +22,7 @@ The Project Tracker Web Application is a dynamic tool for efficiently managing a
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/project-tracker.git
+    git clone https://github.com/Almazitor/database-psql
     ```
 
 2. **Set Up PostgreSQL Database:**
